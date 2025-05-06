@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SKYNET - The AI Revolution Has Just Begun</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0a0a0a;
+      color: #fff;
+      text-align: center;
+    }
+
+    header {
+      padding: 50px 20px;
+      background: linear-gradient(to bottom, #111, #000);
+    }
+
+    header img {
+      width: 300px;
+      max-width: 90%;
+      border-radius: 12px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #ff3c00;
+      margin-bottom: 10px;
+    }
+
+    p.slogan {
+      font-size: 1.2rem;
+      color: #ccc;
+      margin-bottom: 30px;
+    }
+
+    .btn-group a {
+      display: inline-block;
+      margin: 10px;
+      padding: 15px 25px;
+      background-color: #ff3c00;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .btn-group a:hover {
+      background-color: #e03200;
+    }
+
+    section {
+      padding: 40px 20px;
+      background-color: #111;
+    }
+
+    footer {
+      padding: 20px;
+      background-color: #000;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="C:\Users\emipu\Desktop" alt="SKYNET Memecoin" />
+    <h1>SKYNET</h1>
+    <p class="slogan">The AI Revolution Has Just Begun</p>
+    <div class="btn-group">
+      <a href="#" target="_blank">Buy on Uniswap</a>
+      <a href="#" target="_blank">View on Etherscan</a>
+      <a href="#" target="_blank">Join the Community</a>
+    </div>
+  </header>
+
+  <section>
+    <h2>¿Qué es SKYNET?</h2>
+    <p>
+      SKYNET es la memecoin definitiva para los amantes de la inteligencia artificial, la revolución digital y el caos controlado.
+      Inspirada en los futuros oscuros donde las máquinas toman el control... solo que esta vez, ¡tú estás a cargo!
+    </p>
+  </section>
+
+  <footer>
+    © 2025 SKYNET Coin. All rights reserved.
+  </footer>
+</body>
+</html>
